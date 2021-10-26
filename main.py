@@ -276,4 +276,4 @@ async def on_ready():
   
 
 keep_alive()
-client.run('ODc1MDE5MjU1ODQwNjQ5MjM3.YRPbLw.nJ75BxpLZzo7aJnddjiDzDJcKP4')
+client.run(TOKEN)
