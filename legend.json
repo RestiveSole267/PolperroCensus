@@ -1,0 +1,112 @@
+{
+  "legend": [
+    {
+      "gender": [
+        {
+          "genkey":"A",
+          "genvalue":"Male"
+        },
+        {
+          "genkey":"B",
+          "genvalue":"Female"
+        },
+        {
+          "genkey":"C",
+          "genvalue":"Trans"
+        },
+        {
+          "genkey":"D",
+          "genvalue":"Non-binary"
+        },
+        {
+          "genkey":"E",
+          "genvalue":"Prefer Not To Say"
+        }
+      ],
+      "residence": [
+        {
+          "genkey":"A",
+          "genvalue":"Catalina"
+        },
+        {
+          "genkey":"B",
+          "genvalue":"Boblandia"
+        },
+        {
+          "genkey":"C",
+          "genvalue":"Ho'okele"
+        },
+        {
+          "genkey":"D",
+          "genvalue":"Cape Corsair"
+        },
+        {
+          "genkey":"E",
+          "genvalue":"Unaffiliated"
+        }
+      ],
+      "statusres": [
+        {
+          "genkey":"A",
+          "genvalue":"Natural"
+        },
+        {
+          "genkey":"B",
+          "genvalue":"Dual"
+        },
+        {
+          "genkey":"C",
+          "genvalue":"Immigrant"
+        },
+        {
+          "genkey":"D",
+          "genvalue":"Asylum"
+        }
+      ],
+      "employment": [
+        {
+          "genkey":"A",
+          "genvalue":"Government"
+        },
+        {
+          "genkey":"B",
+          "genvalue":"Private"
+        },
+        {
+          "genkey":"C",
+          "genvalue":"Unemployed"
+        }
+      ],
+      "business":[
+        {
+          "genkey":"Y",
+          "genvalue":"Owns"
+        },
+        {
+          "genkey":"N",
+          "genvalue":"Doesn't Own"
+        }
+      ],
+      "registered":[
+        {
+          "genkey":"Y",
+          "genvalue":"Yes"
+        },
+        {
+          "genkey":"N",
+          "genvalue":"No"
+        }
+      ],
+      "votebefore":[
+        {
+          "genkey":"Y",
+          "genvalue":"Yes"
+        },
+        {
+          "genkey":"N",
+          "genvalue":"No"
+        }
+      ]
+    }
+  ]
+}

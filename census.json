@@ -1,0 +1,63 @@
+{
+    "censuses": [
+        {
+            "name": "OCT2021",
+            "responses": [
+                {
+                    "username": "Avia_JP",
+                    "discorduser": "J-P#6654",
+                    "id": 281949428573536260,
+                    "response": [
+                        {
+                            "age": 15,
+                            "gender": "Male",
+                            "current_residence": "Catalina",
+                            "residence_status": "Natural",
+                            "employment_status": "Private",
+                            "business_owner": "yes",
+                            "registered_to_vote": "yes",
+                            "voted_before": "yes",
+                            "game_play_avg": "4 hours"
+                        }
+                    ]
+                },
+                {
+                    "username": "RestiveSole267",
+                    "discorduser": "RestiveSole267#1144",
+                    "id": 325996457620406272,
+                    "response": [
+                        {
+                            "age": 17,
+                            "gender": "Male",
+                            "current_residence": "Catalina",
+                            "residence_status": "Natural",
+                            "employment_status": "Government",
+                            "business_owner": "Owns",
+                            "registered_to_vote": "Yes",
+                            "voted_before": "Yes",
+                            "game_play_avg": "1"
+                        }
+                    ]
+                },
+                {
+                    "username": "Lus0",
+                    "discorduser": "Luso#5390",
+                    "id": 244560508458500099,
+                    "response": [
+                        {
+                            "age": 69420,
+                            "gender": "Male",
+                            "current_residence": "Catalina",
+                            "residence_status": "Natural",
+                            "employment_status": "Government",
+                            "business_owner": "Doesn't Own",
+                            "registered_to_vote": "Yes",
+                            "voted_before": "Yes",
+                            "game_play_avg": "6942000"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
